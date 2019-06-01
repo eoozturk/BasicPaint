@@ -1,4 +1,4 @@
-### Basic Paint
+### Paint Uygulaması
 Uygulama, herkes tarafından kullanılan ve bilinen paint programının sadeleştirilmiş, basit bir halidir. 
 Uygulamada serbest kalem çizimi, kare, üçgen, daire gibi temel geometrik şekil çizimleri yapılabilmektedir.
 Bunula birlikte farklı renk seçeneklerinin seçilebileceği bir renk paleti de uygulama içerisinde yer almaktadır. Uygulama içerisinde yapılan çalışmalar
